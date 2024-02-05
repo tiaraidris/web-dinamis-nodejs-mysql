@@ -66,7 +66,7 @@
 
 8. Buatlah file HTML, CSS, dan JavaScript untuk membuat antarmuka pengguna yang interaktif untuk menambah dan menampilkan biodata siswa.
 
-Ini adalah dasar yang dapat Anda mulai. Anda dapat memperluas dan menyesuaikan sesuai kebutuhan proyek Anda. Jangan lupa untuk menambahkan keamanan dan validasi data agar aplikasi Anda lebih aman dan andal.
+ Ini adalah dasar yang dapat Anda mulai. Anda dapat memperluas dan menyesuaikan sesuai kebutuhan proyek Anda. Jangan lupa untuk menambahkan keamanan dan validasi data agar aplikasi Anda lebih aman dan andal.
 
 
 
