@@ -1,11 +1,11 @@
 # web-dinamis-nodejs-mysql
-Pastikan Node.js telah terinstal di komputer Anda.
+1. Pastikan Node.js telah terinstal di komputer Anda.
 
-Buat folder proyek baru dan masuk ke dalamnya di terminal Anda.
+2. Buat folder proyek baru dan masuk ke dalamnya di terminal Anda.
 
-Jalankan npm init untuk membuat file package.json yang menyimpan informasi tentang proyek Anda.
+3. Jalankan npm init untuk membuat file package.json yang menyimpan informasi tentang proyek Anda.
 
-Instal modul-modul yang diperlukan seperti express, mysql, dan body-parser dengan perintah npm install express mysql body-parser.
+4. Instal modul-modul yang diperlukan seperti express, mysql, dan body-parser dengan perintah npm install express mysql body-parser.
 
 Langkah 2: Setup Server dengan Express
 
@@ -58,13 +58,13 @@ app.listen(port, () => {
 });
 Langkah 3: Buat Database
 
-Buka MySQL dan buat database dengan nama biodata_siswa.
+5. Buka MySQL dan buat database dengan nama biodata_siswa.
 
-Buat tabel siswa dengan kolom id, nama, umur, dan alamat.
+6. Buat tabel siswa dengan kolom id, nama, umur, dan alamat.
 
-Langkah 4: Buat Frontend (HTML/CSS/JavaScript)
+7. Langkah 4: Buat Frontend (HTML/CSS/JavaScript)
 
-Buatlah file HTML, CSS, dan JavaScript untuk membuat antarmuka pengguna yang interaktif untuk menambah dan menampilkan biodata siswa.
+8. Buatlah file HTML, CSS, dan JavaScript untuk membuat antarmuka pengguna yang interaktif untuk menambah dan menampilkan biodata siswa.
 
 Ini adalah dasar yang dapat Anda mulai. Anda dapat memperluas dan menyesuaikan sesuai kebutuhan proyek Anda. Jangan lupa untuk menambahkan keamanan dan validasi data agar aplikasi Anda lebih aman dan andal.
 
